@@ -5,7 +5,7 @@
 <p align="center"><strong>Every villager remembers.</strong></p>
 
 <p align="center">
-  <a href="https://www.minecraft.net/"><img alt="Minecraft 1.21.1" src="https://img.shields.io/badge/Minecraft-1.21.1-62B47A?logo=minecraft&logoColor=white"></a>
+  <a href="https://www.minecraft.net/"><img alt="Minecraft 26.2" src="https://img.shields.io/badge/Minecraft-26.2-62B47A?logo=minecraft&logoColor=white"></a>
   <a href="https://fabricmc.net/"><img alt="Fabric" src="https://img.shields.io/badge/Mod_Loader-Fabric-DBB69B"></a>
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/rfizzle/mercantile"></a>
   <a href="https://github.com/rfizzle/mercantile/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/rfizzle/mercantile?include_prereleases"></a>
@@ -14,7 +14,7 @@
   <a href="https://www.curseforge.com/minecraft/mc-mods/mercantile-villager-overhaul"><img alt="CurseForge downloads" src="https://img.shields.io/curseforge/dt/1591251?logo=curseforge&label=CurseForge&color=F16436"></a>
 </p>
 
-A villager and trade overhaul for Minecraft 1.21.1 (Fabric). Mercantile turns
+A villager and trade overhaul for Minecraft 26.2 (Fabric). Mercantile turns
 villagers from disposable trade machines into mobile, named, persistent
 characters — with pickup, biome-themed names, a six-tier reputation system,
 emerald-based trade cycling, and an iron-fueled sentry block that defends your
@@ -50,13 +50,13 @@ the website for every behavior, tuning knob, and edge case.
 
 **Requirements**
 
-- Minecraft 1.21.1
-- Fabric Loader 0.16+
+- Minecraft 26.2
+- Fabric Loader 0.20+
 - Fabric API
 
 **Steps**
 
-1. Install [Fabric Loader](https://fabricmc.net/use/) for 1.21.1.
+1. Install [Fabric Loader](https://fabricmc.net/use/) for 26.2.
 2. Drop [Fabric API](https://modrinth.com/mod/fabric-api) into your `mods/`
    folder.
 3. Download `mercantile-<version>.jar` from
@@ -76,7 +76,7 @@ feature; install it on the client for the readout to appear.
 | **Peek Reputation Detail** | `Left Alt` | Hold to overlay a framed panel showing your reputation score, standing, progress to the next standing, the perks that standing grants, and the villager professions standing nearby. Release to dismiss. |
 
 Rebind it under **Options → Controls → Key Binds**, in the **Mercantile**
-category. It defaults to `Left Alt` (unused by vanilla 1.21.1). The panel never
+category. It defaults to `Left Alt` (unused by vanilla 26.2). The panel never
 captures the mouse or pauses the game (like vanilla's hold-Tab player list) and
 hides automatically during F1, open screens, and spectator mode.
 

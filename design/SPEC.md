@@ -1,6 +1,6 @@
 # Mercantile — Feature Spec
 
-Minecraft 1.21.1 Fabric mod. Villager and trade overhaul.
+Minecraft 26.2 Fabric mod. Villager and trade overhaul.
 
 **Architectural philosophy:** Mercantile layers onto vanilla villagers, never replaces them. Every villager stays a vanilla `Villager`/`WanderingTrader` with vanilla trades, gossip, and AI; Mercantile's state rides on Fabric attachments and data components, its behavior on thin mixins that delegate to handlers, and its content on datapack JSON under `data/mercantile/`. Removing the mod leaves a world of ordinary villagers with nothing broken. Sibling integration is soft — reflection-backed accessors and `modCompileOnly` — so no feature may hard-depend on another Concord member.
 
@@ -1204,9 +1204,9 @@ All features are independently toggleable via ModMenu / Cloth Config screen and 
 ## Compatibility
 
 ### Required
-- Fabric Loader >=0.16.10
+- Fabric Loader >=0.20.0
 - Fabric API
-- Minecraft 1.21.1
+- Minecraft 26.2
 
 ### Optional Integrations
 - **Jade** — Breeding info, villager state indicators, profession lock status, sentry pylon fuel

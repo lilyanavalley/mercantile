@@ -207,9 +207,9 @@ dependencies {
 
     modCompileOnly "rfizzle:tribulation:${project.tribulation_version}"
 
-    modCompileOnly "mezz.jei:jei-1.21.1-fabric-api:${project.jei_version}"
-    "modClientCompileOnly"("mezz.jei:jei-1.21.1-fabric-api:${project.jei_version}")
-    modLocalRuntime "mezz.jei:jei-1.21.1-fabric:${project.jei_version}"
+    modCompileOnly "mezz.jei:jei-26.2-fabric-api:${project.jei_version}"
+    "modClientCompileOnly"("mezz.jei:jei-26.2-fabric-api:${project.jei_version}")
+    modLocalRuntime "mezz.jei:jei-26.2-fabric:${project.jei_version}"
 
     testImplementation platform("org.junit:junit-bom:5.10.2")
     testImplementation "org.junit.jupiter:junit-jupiter"

@@ -11,7 +11,7 @@ list, config reference, and command guide.
 
 ---
 
-Mercantile is a villager and trade overhaul for **Minecraft 1.21.1 (Fabric)**.
+Mercantile is a villager and trade overhaul for **Minecraft 26.2 (Fabric)**.
 It turns villagers from disposable trade machines into mobile, named,
 persistent characters — with pickup, biome-themed names, a six-tier
 reputation system, emerald-based trade cycling, and an iron-fueled sentry
@@ -26,7 +26,7 @@ hosted on Mojang's CDN.
 
 ## At a glance
 
-- Minecraft **1.21.1**, **Fabric** loader (0.16.10+), **Fabric API** required.
+- Minecraft **26.2**, **Fabric** loader (0.20.0+), **Fabric API** required.
 - Required on the **server**. The reputation HUD is the only client-only
   feature — install it client-side too if you want the readout.
 - Every feature is **individually toggleable** through Mod Menu / Cloth Config
@@ -273,8 +273,8 @@ bundled** — install whichever you already use.
 
 ## Requirements
 
-- Minecraft **1.21.1**
-- Fabric Loader **0.16.10+**
+- Minecraft **26.2**
+- Fabric Loader **0.20.0+**
 - Fabric API
 - Java **21+**
 - Required on the **server**. Install on the client as well if you want the
@@ -282,7 +282,7 @@ bundled** — install whichever you already use.
 
 ## Installation
 
-1. Install [Fabric Loader](https://fabricmc.net/use/) for 1.21.1.
+1. Install [Fabric Loader](https://fabricmc.net/use/) for 26.2.
 2. Drop [Fabric API](https://modrinth.com/mod/fabric-api) into your `mods/`
    folder.
 3. Download Mercantile from this Modrinth page (via the Modrinth App, Prism
