@@ -14,13 +14,13 @@
       "title": "1. Installation",
       "titleGap": "4",
       "blocks": [
-        { "type": "prose", "html": ["Mercantile is a Fabric mod for Minecraft 1.21.1. Like every Fabric mod, you'll need:"] },
+        { "type": "prose", "html": ["Mercantile is a Fabric mod for Minecraft 26.2. Like every Fabric mod, you'll need:"] },
         {
           "type": "list",
           "ordered": true,
           "spacing": 3,
           "items": [
-            "Install <strong class='text-bone'>Fabric Loader 0.16+</strong> via the official Fabric installer.",
+            "Install <strong class='text-bone'>Fabric Loader 0.20+</strong> via the official Fabric installer.",
             "Download <strong class='text-bone'>Fabric API</strong> from <a href='https://modrinth.com/mod/fabric-api' rel='noopener noreferrer' target='_blank' class='text-accent hover:text-accent2 underline'>Modrinth</a> and drop it into your <code class='text-bone'>mods/</code> folder.",
             "Download Mercantile from <a href='https://github.com/rfizzle/mercantile/releases' rel='noopener noreferrer' target='_blank' class='text-accent hover:text-accent2 underline'>GitHub Releases</a> and drop the jar into <code class='text-bone'>mods/</code>.",
             "Launch Minecraft once. The first run generates <code class='text-bone'>.minecraft/config/mercantile.json</code> with default values."

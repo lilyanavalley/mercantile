@@ -6,7 +6,7 @@ point at the same content so each agent finds what it expects to read.
 
 ## Project overview
 
-Mercantile is a Minecraft 1.21.1 Fabric mod — a villager and trade overhaul.
+Mercantile is a Minecraft 26.2 Fabric mod — a villager and trade overhaul.
 Java 21, Fabric Loader 0.16.10, Loom 1.9. The full feature spec lives in
 [`design/SPEC.md`](design/SPEC.md). Work is tracked in GitHub Issues — see the
 [Development lifecycle](#development-lifecycle) section below.

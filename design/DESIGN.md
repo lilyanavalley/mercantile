@@ -1,6 +1,6 @@
 # Mercantile — Design Specification
 
-> Villager & Trade Overhaul for Minecraft 1.21.1 Fabric
+> Villager & Trade Overhaul for Minecraft 26.2 Fabric
 
 ---
 
@@ -225,7 +225,7 @@ Suite-level standards live in the concord repo and are never copied here:
 [`REPO-LAYOUT.md`](https://github.com/rfizzle/concord/blob/master/REPO-LAYOUT.md),
 [`design/DESIGN-SYSTEM.md`](https://github.com/rfizzle/concord/blob/master/design/DESIGN-SYSTEM.md).
 
-All members share: Minecraft 1.21.1 · Java 21 · Fabric · MIT · the dark
+All members share: Minecraft 26.2 · Java 21 · Fabric · MIT · the dark
 neutral web theme · monospace stack · pixel-art logo style · optional
 Jade/WTHIT, EMI/REI/JEI, Mod Menu, Cloth Config integrations.
 
